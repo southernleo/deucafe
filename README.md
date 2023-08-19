@@ -1,4 +1,5 @@
 # deucafe
+
 You are asked to create a simulation of a cafe using POSIX threads,
 mutexes and semaphores. Your program should have the following functionalities and
 operations.
